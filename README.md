@@ -1,16 +1,14 @@
 ### Hello, My name is Kurtis. 👋
 
-<!--
-**KurtisJin/KurtisJin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... Becoming a knowledgeable programmer
+- 🌱 I’m currently learning ... Building application with javaScipt
+- 👯 I’m looking to collaborate on ... javaScript
+- 🤔 I’m looking for help with ... becoming a sufficient programmer
+- 💬 Ask me about ... Anything!
 - 📫 How to reach me: ... [My Website](https://kurtisjin.github.io/Portfolio/)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...  He/Him
+- ⚡ Fun fact: ... I spent way too much money on Amazon.com
 -->
