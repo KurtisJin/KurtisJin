@@ -8,6 +8,11 @@
 
 ## Skills
 
+- JavaScript
+- HTML
+- CSS
+- node.js
+
 ## Website:
 
 - [My Website](https://kurtisjin.github.io/Portfolio/)
