@@ -10,7 +10,7 @@
 
 ## Projects
 
-![project1](https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG)
+![project1](https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG = 100x100)
 
 - Movie Serch - [My Website](https://kurtisjin.github.io/Movie-Application/)
 
