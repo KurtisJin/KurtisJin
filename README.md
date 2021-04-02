@@ -10,7 +10,7 @@
 
 ## Website:
 
-- www.kurtisjin.com
+- [My Website](https://kurtisjin.github.io/Portfolio/)
 
 ## How to reach me:
 
