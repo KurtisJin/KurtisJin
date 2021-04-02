@@ -16,7 +16,7 @@ Movie Serch - [My Website](https://kurtisjin.github.io/Movie-Application/)
 
 <img src="https://user-images.githubusercontent.com/66793863/113430725-3ea54100-93a0-11eb-8349-df9e8a1164bb.JPG" width = "200" height = "200">
 
-Weather Application
+Weather Application -  [My Website](https://kurtisjin.github.io/Weather-Application/)
 
 ## Skills
 
