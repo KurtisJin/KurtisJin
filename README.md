@@ -8,11 +8,13 @@
 
 ## Skills
 
-## Website
+## Website:
+
+- www.kurtisjin.com
 
 ## How to reach me:
 
 - 📫 Addison, Texas
 - 📧 cloudnine21@gmail.com
 - 📱 972-877-3505
-- 
+
