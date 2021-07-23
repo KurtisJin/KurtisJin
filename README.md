@@ -27,7 +27,7 @@ Weather Application -  [My Website](https://kurtisjin.github.io/Weather-Applicat
 
 ## Website:
 
-- [My Website](https://kurtisjin.github.io/Portfolio/)
+- [My Website](https://kurtisjin.github.io/Portfolio-in-React/)
 
 ## How to reach me:
 
