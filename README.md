@@ -32,6 +32,6 @@ Weather Application -  [My Website](https://kurtisjin.github.io/Weather-Applicat
 ## How to reach me:
 
 - 📫 Addison, Texas
-- 📧 cloudnine21@gmail.com
+- 📧 kurtisjin21@gmail.com
 - 📱 972-877-3505
 
