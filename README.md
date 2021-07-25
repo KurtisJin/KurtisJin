@@ -1,6 +1,5 @@
 ![35f27c933bf26fa334ae138abb62fd8f](https://user-images.githubusercontent.com/66793863/107866793-040c3700-6e3a-11eb-8609-e611aca8e571.gif)
 
-https://media.giphy.com/media/wGEymBvo6FUlR9bbda/giphy.mp4
 
 # Hello, My name is Kurtis. 👋
 
