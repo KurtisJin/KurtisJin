@@ -21,10 +21,10 @@ Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-App
 
 ## Skills
 
+- react.js
 - JavaScript
 - HTML
 - CSS
-- react.js
 - node.js
 - API
 - ORM
@@ -32,6 +32,17 @@ Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-App
 - Express
 - Sql
 - NoSql
+- MongoDB
+- Terminal
+- AJAX
+- API's
+- Mongoose
+- Handlebars
+- GIT
+- GitHub
+- jQuery
+- sequealize
+- React Hooks
 
 ## Website:
 
