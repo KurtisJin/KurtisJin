@@ -1,4 +1,5 @@
-![881563d6444b370fa4ceea0c3183bb4c](https://user-images.githubusercontent.com/66793863/127089424-c0d4f6b1-0f60-4ea9-b014-a3ca05f06d11.gif)
+![Businessweek-code_gif](https://user-images.githubusercontent.com/66793863/127198346-19ddf8c1-da59-4732-8069-d97663e053d7.gif)
+
 
 
 # Hello, My name is Kurtis. I want to become a successful developer! 👋
