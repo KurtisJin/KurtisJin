@@ -1,5 +1,4 @@
-![35f27c933bf26fa334ae138abb62fd8f](https://user-images.githubusercontent.com/66793863/107866793-040c3700-6e3a-11eb-8609-e611aca8e571.gif)
-
+![coding](https://user-images.githubusercontent.com/66793863/127088999-4e20bbdc-4a50-4938-9a10-fe7c936a83ef.gif)
 
 # Hello, My name is Kurtis and I want to become a successful Developer! 👋
 
