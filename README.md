@@ -24,6 +24,10 @@ Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-App
 
 Recipe Search - [Project Website](https://github.com/KurtisJin/recipes)
 
+![image](https://user-images.githubusercontent.com/66793863/127260029-aaf2225c-c47b-4efb-9b34-9be539ef03be.png)
+
+Readme.md Generator - [Project Video](https://www.youtube.com/watch?v=bQpNUcq0hr8&ab_channel=KurtisJin)
+
 ## Skills
 
 - react.js
