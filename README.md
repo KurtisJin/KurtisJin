@@ -26,7 +26,7 @@ Recipe Search - [Project Website](https://github.com/KurtisJin/recipes)
 
 <img src="https://user-images.githubusercontent.com/66793863/127260029-aaf2225c-c47b-4efb-9b34-9be539ef03be.png" width = "200" height = "200">
 
-Readme.md Generator - [Project Video](https://www.youtube.com/watch?v=bQpNUcq0hr8&ab_channel=KurtisJin)
+Readme.md Generator - [Project Website](https://www.youtube.com/watch?v=bQpNUcq0hr8&ab_channel=KurtisJin)
 
 <img src="https://user-images.githubusercontent.com/66793863/127260756-5d4afabd-ac76-4e13-82c4-434ad0429567.png" width = "200" height = "200">
 Team Member Generator - [Project Video](https://www.youtube.com/watch?v=s0-1aN__lO8&ab_channel=KurtisJin)
