@@ -20,7 +20,7 @@ Movie Serch - [Project Website](https://kurtisjin.github.io/Movie-Application/)
 
 Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-Application/)
 
-![image](https://user-images.githubusercontent.com/66793863/127259213-fcbd65db-7cf5-4790-9661-85a0a0fb0f16.png)
+![image](https://user-images.githubusercontent.com/66793863/127259295-d21966f1-9aad-4e36-98a1-8a79fd31f9df.png)
 
 Recipe Search - [Project Website](https://github.com/KurtisJin/recipes)
 
