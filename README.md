@@ -28,10 +28,10 @@ Recipe Search - [Project Website](https://github.com/KurtisJin/recipes)
 
 Readme.md Generator - [Project Video](https://www.youtube.com/watch?v=bQpNUcq0hr8&ab_channel=KurtisJin)
 
-![image](https://user-images.githubusercontent.com/66793863/127260756-5d4afabd-ac76-4e13-82c4-434ad0429567.png)
+<img src="https://user-images.githubusercontent.com/66793863/127260756-5d4afabd-ac76-4e13-82c4-434ad0429567.png" width = "200" height = "200">
 Team Member Generator - [Project Video](https://www.youtube.com/watch?v=s0-1aN__lO8&ab_channel=KurtisJin)
 Descriptopn: Be able to add Team-members
-[GitHub]https://github.com/KurtisJin/Team-Member-Generator
+[GitHub](https://github.com/KurtisJin/Team-Member-Generator)
 
 ## Skills
 
