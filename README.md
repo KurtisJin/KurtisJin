@@ -1,4 +1,3 @@
-![p2t](https://user-images.githubusercontent.com/66793863/127259394-89b7165f-87b2-40c6-80a2-9dc6d733db2e.JPG)
 ![Businessweek-code_gif](https://user-images.githubusercontent.com/66793863/127198346-19ddf8c1-da59-4732-8069-d97663e053d7.gif)
 
 
