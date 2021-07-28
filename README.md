@@ -20,6 +20,10 @@ Movie Serch - [Project Website](https://kurtisjin.github.io/Movie-Application/)
 
 Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-Application/)
 
+![image](https://user-images.githubusercontent.com/66793863/127259213-fcbd65db-7cf5-4790-9661-85a0a0fb0f16.png)
+
+Recipe Search - [Project Website](https://github.com/KurtisJin/recipes)
+
 ## Skills
 
 - react.js
