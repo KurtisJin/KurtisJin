@@ -2,7 +2,7 @@
 
 
 
-# Hello, My name is Kurtis. I want to become a successful developer! 👋
+# Hello, My name is Kurtis. I want to become a successful Full Stack Developer! 👋
 
   My life was filled with hurdles. The difficulties of life have taught me not to give up and become successful with any tasks given. I was faced with unemployment due to COVID - 19. It was another challenge to beat. But, here I am beating more challenges life has thrown my way and utilizing my skills and expending my knowledge to become a programmer.
 
