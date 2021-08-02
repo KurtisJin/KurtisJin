@@ -14,7 +14,11 @@
 
 <img src="https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG" width = "300" height = "200">
 
-Movie Serch - [Project Website](https://kurtisjin.github.io/Movie-Application/)
+Movie Serch - [Project Website](https://mmorrisonlk.github.io/HoV_movie_streaming_search/)
+
+Description: Be able to search for your favorite movies and its information. 
+
+[GitHub](https://github.com/mmorrisonlk/HoV_movie_streaming_search)
 
 <img src="https://user-images.githubusercontent.com/66793863/113430725-3ea54100-93a0-11eb-8349-df9e8a1164bb.JPG" width = "300" height = "200">
 
@@ -32,11 +36,15 @@ Description: Be able to search for recipes.
 
 Readme.md Generator - [Project Website](https://www.youtube.com/watch?v=bQpNUcq0hr8&ab_channel=KurtisJin)
 
+Description: Answer prompts of questions to create your Github Readme.md.
+
+[GitHub](https://github.com/KurtisJin/Readme.md-Generator)
+
 <img src="https://user-images.githubusercontent.com/66793863/127260756-5d4afabd-ac76-4e13-82c4-434ad0429567.png" width = "300" height = "200">
 
 Team Member Generator - [Project Website](https://www.youtube.com/watch?v=s0-1aN__lO8&ab_channel=KurtisJin)
 
-Descriptopn: Be able to add Team-members
+Description: Be able to add Team-members
 
 [GitHub](https://github.com/KurtisJin/Team-Member-Generator)
 
