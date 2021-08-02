@@ -8,7 +8,7 @@
 
 ## Introduction
 
-  Throughout the learning course of scripting, I have been able to create projects I will be able to share with you. Please feel free to review them.
+  With many years spent in the IT industry, I have engaged with business leaders in multiple industries to resolve their IT-related problems-creating efficiency and adding to     their bottom line. I am a dynamic, result-focused, and known problem solver. I enjoy assisting to grow, improve, and develop IT concepts for small and large businesses. 
 
 ## Projects
 
