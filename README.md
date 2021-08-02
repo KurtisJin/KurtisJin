@@ -8,7 +8,7 @@
 
 ## Introduction
 
-  With many years spent in the IT industry, I have engaged with business leaders in multiple industries to resolve their IT-related problems-creating efficiency and adding to     their bottom line. I am a dynamic, result-focused, and known problem solver. I enjoy assisting to grow, improve, and develop IT concepts for small and large businesses. 
+ Resourceful Web Developer with proven experience delivering innovative technical solutions. Self-starter with exceptional interpersonal communication abilities that thrives in   collaborative team environments.  
 
 ## Projects
 
