@@ -12,7 +12,7 @@
 
 ## Projects
 
-<img src="https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG" width = "200" height = "200">
+<img src="https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG" width = "300" height = "200">
 
 Movie Serch - [Project Website](https://kurtisjin.github.io/Movie-Application/)
 
@@ -22,7 +22,11 @@ Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-App
 
 <img src="https://user-images.githubusercontent.com/66793863/127259569-d0f86ead-2d35-470e-befc-f725790f518b.png"  width = "200" height = "200">
 
-Recipe Search - [Project Website](https://github.com/KurtisJin/recipes)
+Recipe Search - [Project Website](https://immense-wave-07692.herokuapp.com/)
+
+Description: Be able to search for recipes. 
+
+[GitHub](https://github.com/KurtisJin/recipes)
 
 <img src="https://user-images.githubusercontent.com/66793863/127260029-aaf2225c-c47b-4efb-9b34-9be539ef03be.png" width = "200" height = "200">
 
