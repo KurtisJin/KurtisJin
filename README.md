@@ -26,6 +26,10 @@ Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-App
 
 <img src="https://user-images.githubusercontent.com/66793863/127259569-d0f86ead-2d35-470e-befc-f725790f518b.png"  width = "300" height = "200">
 
+Description: Be able to search for weather status anywhere in the world. 
+
+[GitHub](https://github.com/KurtisJin/Weather-Application)
+
 Recipe Search - [Project Website](https://immense-wave-07692.herokuapp.com/)
 
 Description: Be able to search for recipes. 
