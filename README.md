@@ -20,21 +20,27 @@ Description: Be able to search for your favorite movies and its information.
 
 [GitHub](https://github.com/mmorrisonlk/HoV_movie_streaming_search)
 
+------------------------------------------
+
 <img src="https://user-images.githubusercontent.com/66793863/113430725-3ea54100-93a0-11eb-8349-df9e8a1164bb.JPG" width = "300" height = "200">
 
 Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-Application/)
 
-<img src="https://user-images.githubusercontent.com/66793863/127259569-d0f86ead-2d35-470e-befc-f725790f518b.png"  width = "300" height = "200">
-
 Description: Be able to search for weather status anywhere in the world. 
 
 [GitHub](https://github.com/KurtisJin/Weather-Application)
+
+------------------------------------------
+
+<img src="https://user-images.githubusercontent.com/66793863/127259569-d0f86ead-2d35-470e-befc-f725790f518b.png"  width = "300" height = "200">
 
 Recipe Search - [Project Website](https://immense-wave-07692.herokuapp.com/)
 
 Description: Be able to search for recipes. 
 
 [GitHub](https://github.com/KurtisJin/recipes)
+
+------------------------------------------
 
 <img src="https://user-images.githubusercontent.com/66793863/127260029-aaf2225c-c47b-4efb-9b34-9be539ef03be.png" width = "300" height = "200">
 
@@ -43,6 +49,8 @@ Readme.md Generator - [Project Website](https://www.youtube.com/watch?v=bQpNUcq0
 Description: Answer prompts of questions to create your Github Readme.md.
 
 [GitHub](https://github.com/KurtisJin/Readme.md-Generator)
+
+------------------------------------------
 
 <img src="https://user-images.githubusercontent.com/66793863/127260756-5d4afabd-ac76-4e13-82c4-434ad0429567.png" width = "300" height = "200">
 
