@@ -60,6 +60,9 @@ Description: Be able to add Team-members
 
 [GitHub](https://github.com/KurtisJin/Team-Member-Generator)
 
+------------------------------------------
+
+
 ## Skills
 
 - react.js
