@@ -12,7 +12,7 @@
 
 ## Projects
 
-<img src="https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG" width = "400" height = "300">
+<img src="https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG" width = "400" height = "250">
 
 Movie Serch - [Project Website](https://mmorrisonlk.github.io/HoV_movie_streaming_search/)
 
@@ -22,7 +22,7 @@ Description: Be able to search for your favorite movies and its information.
 
 ------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/66793863/113430725-3ea54100-93a0-11eb-8349-df9e8a1164bb.JPG" width = "400" height = "300">
+<img src="https://user-images.githubusercontent.com/66793863/113430725-3ea54100-93a0-11eb-8349-df9e8a1164bb.JPG" width = "400" height = "250">
 
 Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-Application/)
 
@@ -32,7 +32,7 @@ Description: Be able to search for weather status anywhere in the world.
 
 ------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/66793863/131226859-3ce5d50a-8813-4681-8d7b-4ec2366bb3db.png" width="400" height = "300">
+<img src="https://user-images.githubusercontent.com/66793863/131226859-3ce5d50a-8813-4681-8d7b-4ec2366bb3db.png" width="400" height = "250">
 
 Note Taker - [Project Website](https://github.com/KurtisJin/Note-Taker)
 
@@ -42,7 +42,7 @@ Description: Take notes and be able to store them and delete them.
 
 ------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/66793863/127260029-aaf2225c-c47b-4efb-9b34-9be539ef03be.png" width = "300" height = "200">
+<img src="https://user-images.githubusercontent.com/66793863/127260029-aaf2225c-c47b-4efb-9b34-9be539ef03be.png" width = "400" height = "250">
 
 Readme.md Generator - [Project Website](https://www.youtube.com/watch?v=bQpNUcq0hr8&ab_channel=KurtisJin)
 
@@ -52,7 +52,7 @@ Description: Answer prompts of questions to create your Github Readme.md.
 
 ------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/66793863/127260756-5d4afabd-ac76-4e13-82c4-434ad0429567.png" width = "300" height = "200">
+<img src="https://user-images.githubusercontent.com/66793863/127260756-5d4afabd-ac76-4e13-82c4-434ad0429567.png" width = "400" height = "250">
 
 Team Member Generator - [Project Website](https://www.youtube.com/watch?v=s0-1aN__lO8&ab_channel=KurtisJin)
 
