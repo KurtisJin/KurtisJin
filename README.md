@@ -32,13 +32,13 @@ Description: Be able to search for weather status anywhere in the world.
 
 ------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/66793863/127259569-d0f86ead-2d35-470e-befc-f725790f518b.png"  width = "300" height = "200">
+![scheduler](https://user-images.githubusercontent.com/66793863/131226638-072a2005-ce7e-40a9-b967-2bcc7d3bac95.png)
 
-Recipe Search - [Project Website](https://immense-wave-07692.herokuapp.com/)
+Note Taker - [Project Website](https://github.com/KurtisJin/Note-Taker)
 
-Description: Be able to search for recipes. 
+Description: Take notes and be able to store them and delete them.  
 
-[ReadMe](https://github.com/KurtisJin/recipes)
+[ReadMe](https://github.com/KurtisJin/Note-Taker)
 
 ------------------------------------------
 
