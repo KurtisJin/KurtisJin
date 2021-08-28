@@ -32,7 +32,7 @@ Description: Be able to search for weather status anywhere in the world.
 
 ------------------------------------------
 
-![image](https://user-images.githubusercontent.com/66793863/131226859-3ce5d50a-8813-4681-8d7b-4ec2366bb3db.png)
+<img src="https://user-images.githubusercontent.com/66793863/131226859-3ce5d50a-8813-4681-8d7b-4ec2366bb3db.png" width="400" height = "300">
 
 Note Taker - [Project Website](https://github.com/KurtisJin/Note-Taker)
 
