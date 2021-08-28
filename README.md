@@ -12,7 +12,7 @@
 
 ## Projects
 
-<img src="https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG" width = "300" height = "200">
+<img src="https://user-images.githubusercontent.com/66793863/113430091-31d41d80-939f-11eb-8946-4cdebe7de3ef.JPG" width = "400" height = "300">
 
 Movie Serch - [Project Website](https://mmorrisonlk.github.io/HoV_movie_streaming_search/)
 
@@ -22,7 +22,7 @@ Description: Be able to search for your favorite movies and its information.
 
 ------------------------------------------
 
-<img src="https://user-images.githubusercontent.com/66793863/113430725-3ea54100-93a0-11eb-8349-df9e8a1164bb.JPG" width = "300" height = "200">
+<img src="https://user-images.githubusercontent.com/66793863/113430725-3ea54100-93a0-11eb-8349-df9e8a1164bb.JPG" width = "400" height = "300">
 
 Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-Application/)
 
@@ -32,13 +32,13 @@ Description: Be able to search for weather status anywhere in the world.
 
 ------------------------------------------
 
-![scheduler](https://user-images.githubusercontent.com/66793863/131226638-072a2005-ce7e-40a9-b967-2bcc7d3bac95.png)
+<img src="https://user-images.githubusercontent.com/66793863/131226638-072a2005-ce7e-40a9-b967-2bcc7d3bac95.png" width = "300" height = "200")
 
 Note Taker - [Project Website](https://github.com/KurtisJin/Note-Taker)
 
 Description: Take notes and be able to store them and delete them.  
 
-[ReadMe](https://github.com/KurtisJin/Note-Taker)
+[ReadMe] (https://github.com/KurtisJin/Note-Taker)
 
 ------------------------------------------
 
