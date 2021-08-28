@@ -18,7 +18,7 @@ Movie Serch - [Project Website](https://mmorrisonlk.github.io/HoV_movie_streamin
 
 Description: Be able to search for your favorite movies and its information. 
 
-[GitHub](https://github.com/mmorrisonlk/HoV_movie_streaming_search)
+[ReadMe](https://github.com/mmorrisonlk/HoV_movie_streaming_search)
 
 ------------------------------------------
 
@@ -28,7 +28,7 @@ Weather Application -  [Project Website](https://kurtisjin.github.io/Weather-App
 
 Description: Be able to search for weather status anywhere in the world. 
 
-[GitHub](https://github.com/KurtisJin/Weather-Application)
+[ReadMe](https://github.com/KurtisJin/Weather-Application)
 
 ------------------------------------------
 
@@ -38,7 +38,7 @@ Recipe Search - [Project Website](https://immense-wave-07692.herokuapp.com/)
 
 Description: Be able to search for recipes. 
 
-[GitHub](https://github.com/KurtisJin/recipes)
+[ReadMe](https://github.com/KurtisJin/recipes)
 
 ------------------------------------------
 
@@ -48,7 +48,7 @@ Readme.md Generator - [Project Website](https://www.youtube.com/watch?v=bQpNUcq0
 
 Description: Answer prompts of questions to create your Github Readme.md.
 
-[GitHub](https://github.com/KurtisJin/Readme.md-Generator)
+[ReadMe](https://github.com/KurtisJin/Readme.md-Generator)
 
 ------------------------------------------
 
@@ -58,7 +58,7 @@ Team Member Generator - [Project Website](https://www.youtube.com/watch?v=s0-1aN
 
 Description: Be able to add Team-members
 
-[GitHub](https://github.com/KurtisJin/Team-Member-Generator)
+[ReadMe](https://github.com/KurtisJin/Team-Member-Generator)
 
 ------------------------------------------
 
