@@ -38,7 +38,7 @@ Note Taker - [Project Website](https://github.com/KurtisJin/Note-Taker)
 
 Description: Take notes and be able to store them and delete them.  
 
-[ReadMe] (https://github.com/KurtisJin/Note-Taker)
+[ReadMe](https://github.com/KurtisJin/Note-Taker)
 
 ------------------------------------------
 
